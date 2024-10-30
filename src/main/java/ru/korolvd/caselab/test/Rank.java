@@ -1,4 +1,4 @@
-package org.example;
+package ru.korolvd.caselab.test;
 
 import java.util.*;
 
